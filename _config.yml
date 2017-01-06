@@ -16,7 +16,7 @@ owner:
   favicon:        favicon.ico
   bio:            "明朝即長路 惜取此時心"
   email:          azeril@live.cn
-  web:            http://stardust.cat
+  web:            https://stardust.cat
 
   github:         Azeril #username
   weibo:          Azeril #username
@@ -73,7 +73,7 @@ defaults:
       image:
         feature:  stairs2.jpg
         credit:   Azeril
-        creditlink: http://stardust.cat
+        creditlink: https://stardust.cat
 
 # Comments 
 
